@@ -244,7 +244,6 @@ else:
     tag = "AM"
 def banner():
     clear()
-    print(f'
     logo=(f'''         
               \033[1;36m
 ─────────███──────────███
